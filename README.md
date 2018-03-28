@@ -1,2 +1,3 @@
 # meta
-S3S Meta Repo
+
+A place for meta discussion/documents and maybe blog posts
